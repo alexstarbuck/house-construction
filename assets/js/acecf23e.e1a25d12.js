@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgorice_95_site=self.webpackChunkgorice_95_site||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/house-construction/blog","blogTitle":"Blog","authorsListPath":"/house-construction/blog/authors"}')}}]);
